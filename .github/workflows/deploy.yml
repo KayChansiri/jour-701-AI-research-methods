@@ -1,0 +1,30 @@
+name: Deploy course website
+
+on:
+  push:
+    branches:
+      - main
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install website requirements
+        run: pip install -r requirements.txt
+
+      - name: Build and deploy website
+        run: mkdocs gh-deploy --force
