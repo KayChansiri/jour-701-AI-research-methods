@@ -35,7 +35,7 @@ By the end of this week, you should be able to:
 - Limitations of generated output
 
 ## Materials
-[Download the Week 1 slides](../files/week1.pptx){ .md-button .md-button--primary }
+[Download the Week 1 PowerPoint slides](https://github.com/KayChansiri/jour-701-AI-research-methods/blob/main/docs/files/Week1.pptx)
 
 ## Reflection Question
 
