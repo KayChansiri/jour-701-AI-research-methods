@@ -1,8 +1,6 @@
-# JOUR 701
+# JOUR 701 Research Methods in the Age of AI
 
-## Research Methods in the Age of AI
-
-**Graduate research methods for an AI-mediated world**
+## Graduate research methods for an AI-mediated world
 
 This course brings together quantitative research design, Python-based data
 analysis, large language models, AI-assisted coding, and computational research
