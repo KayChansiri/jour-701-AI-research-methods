@@ -35,8 +35,7 @@ By the end of this week, you should be able to:
 - Limitations of generated output
 
 ## Materials
-
-[Download the Week 1 slides](../files/week-01-slides.pdf){ .md-button }
+[Download the Week 1 slides](../files/week1.ppt){ .md-button .md-button--primary }
 
 ## Reflection Question
 
