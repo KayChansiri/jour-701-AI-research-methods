@@ -1,11 +1,11 @@
-site_name: JOUR 701
+site_name: JOUR 701 Research Methods in the Age of AI
 site_description: Research Methods in the Age of AI
 site_author: Kay Chansiri
 
-site_url: https://KayChansiri.github.io/jour-701/
+site_url: https://kaychansiri.github.io/jour-701-AI-research-methods/
 
 repo_name: KayChansiri/jour-701
-repo_url: https://github.com/KayChansiri/jour-701
+repo_url: https://github.com/KayChansiri/jour-701-AI-research-methods
 
 theme:
   name: material
@@ -27,16 +27,16 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
-      accent: deep purple
+      primary: light blue
+      accent: teal
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
 
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: deep purple
+      primary: blue gray
+      accent: cyan
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
