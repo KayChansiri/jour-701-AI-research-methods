@@ -1,0 +1,100 @@
+site_name: JOUR 701
+site_description: Research Methods in the Age of AI
+site_author: Kay Chansiri
+
+site_url: https://KayChansiri.github.io/jour-701/
+
+repo_name: KayChansiri/jour-701
+repo_url: https://github.com/KayChansiri/jour-701
+
+theme:
+  name: material
+  language: en
+
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - content.code.copy
+    - content.tabs.link
+    - search.highlight
+    - search.suggest
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+  icon:
+    logo: material/school
+    repo: fontawesome/brands/github
+
+nav:
+  - Home: index.md
+
+  - Syllabus:
+      - Course Overview: syllabus.md
+      - Weekly Schedule: schedule.md
+      - AI Use Policy: ai-policy.md
+
+  - Lectures:
+      - lectures/index.md
+      - Week 1 — Research in the AI Era: lectures/week-01.md
+      - Week 2 — Python and Research Tools: lectures/week-02.md
+      - Week 3 — LLM-Assisted Research: lectures/week-03.md
+
+  - Labs:
+      - labs/index.md
+      - Week 2 — Python Fundamentals: labs/week-02-python.md
+      - Week 3 — LLM Information Extraction: labs/week-03-llm.md
+
+  - Assignments:
+      - assignments/index.md
+      - Assignment 1 — AI-Assisted Extraction: assignments/assignment-01.md
+
+  - Resources:
+      - resources/index.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - def_list
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/KayChansiri
+
+copyright: >
+  Copyright &copy; 2026 Kay Chansiri.
+  Course materials may not be redistributed without permission.
