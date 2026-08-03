@@ -53,6 +53,15 @@ You will use:
 
 No prior programming experience is required.
 
+## Course Readings
+
+There is no single required textbook for this course. Required readings will be drawn from a collection of openly available online books covering introductory Python, data management, statistical analysis, visualization, and statistical learning.
+
+Specific chapters and sections will be assigned on the relevant weekly course pages. Students are not expected to read any of the listed books in full.
+
+[View the online books and course resources](resources/){ .md-button }
+
+
 ## Assignments
 
 | Assignment | Weight |
