@@ -17,28 +17,28 @@ workflows.
 
 <div class="grid cards" markdown>
 
--   :material-flask-outline:{ .lg .middle } **Design Research**
+-   **Design Research**
 
     ---
 
     Develop research questions, measurements, surveys, randomized experiments,
     and quasi-experimental studies.
 
--   :material-language-python:{ .lg .middle } **Analyze with Python**
+-   **Analyze with Python**
 
     ---
 
     Clean, analyze, visualize, and interpret quantitative data using
     reproducible Python notebooks.
 
--   :material-robot-outline:{ .lg .middle } **Work with AI**
+-   **Work with AI**
 
     ---
 
     Use large language models for structured information extraction,
     classification, coding assistance, and research support.
 
--   :material-account-check-outline:{ .lg .middle } **Maintain Human Oversight**
+-   **Maintain Human Oversight**
 
     ---
 
