@@ -62,7 +62,7 @@ nav:
   - Labs:
       - labs/index.md
       - Week 2 — Python Fundamentals: labs/week-02-python.md
-      - Week 3 — LLM Information Extraction: labs/week-03-python.md
+      - Week 3 — Python Research Workflow: labs/week-03-python.md
 
   - Assignments:
       - assignments/index.md
