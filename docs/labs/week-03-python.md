@@ -36,7 +36,7 @@ Assigned Activity:
 
 ## How Today's Lab Works
 
-Each student will be assigned **one primary activity**.
+Each group will be assigned **two primary activities**.
 
 Your job is to:
 
@@ -49,7 +49,7 @@ Your job is to:
 7. Verify that your solution actually answers the task.
 8. Be prepared to share your screen and explain your process.
 
-If you finish early, try another activity.
+If you finish early, try the Challenge activity.
 
 ---
 
@@ -532,7 +532,7 @@ responses = [
 
 # Screen Sharing
 
-During class, several students will be invited to share their screens.
+During class, teams will be invited to share their screens.
 
 When you share, briefly show:
 
@@ -586,12 +586,4 @@ By the end of this lab, you should have practiced how to:
 
 ---
 
-## Next
 
-**Week 4: Python + Pretrained Transformer Models**
-
-Next week, we will connect the Python structures you practiced today to pretrained language models.
-
-Instead of only asking Python to manipulate the text directly, we will begin asking:
-
-> **How can Python send many pieces of research text through a pretrained model and systematically collect the results?**
