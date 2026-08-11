@@ -13,14 +13,20 @@ and preparation instructions.
 
 -   **Week 2**
 
-    Python and Computational Research Tools
+    Inside Large Language Models
 
     [Open lecture](week-02.md)
 
 -   **Week 3**
 
-    LLM-Assisted Research
+    Python and Computational Research Environments
 
     [Open lecture](week-03.md)
+
+-   **Week 4**
+
+    Python Meets Pretrained Language Models
+
+    [Open lecture](week-04.md)
 
 </div>
