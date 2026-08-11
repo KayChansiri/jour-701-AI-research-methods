@@ -62,30 +62,6 @@ You will integrate analytical reasoning with AI ethics, reproducibility, human o
 
 The course concludes with an applied group research project in which you use an instructor-provided dataset, select an appropriate analytical approach, interpret the results, and communicate what the evidence means.
 
-## Week-by-Week Course Schedule
-
-| Week              | Topic                                          | Focus                                                                                                                                                                                        |
-| ----------------- | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Week 1**        | Research Methods in the Age of AI              | Research workflows, contemporary research tools, large language models, and the role of computational methods in modern research                                                             |
-| **Week 2**        | Inside Large Language Models                   | From NLP to Transformers, tokenization, embeddings, attention, inference, and limitations of language models                                                                                 |
-| **Week 3**        | Python and Computational Research Environments | Google Colab, Python fundamentals, variables, data types, lists, functions, libraries, and reproducible computational workflows                                                              |
-| **Week 4**        | Python Meets Pretrained Language Models        | Accessing pretrained models, basic model inference, human + AI literature screening, classification, and evaluating model judgments                                                          |
-| **Week 5**        | Sampling and Measurement                       | Populations, samples, sampling strategies, variables, operationalization, reliability, validity, and measurement decisions                                                                   |
-| **Week 6**        | Survey and Experimental Research               | Survey design, randomized controlled experiments, A/B testing, independent and dependent variables, manipulation, and random assignment                                                      |
-| **Week 7**        | Quasi-Experimental Research                    | Quasi-experimental designs, confounding, internal and external validity, and translating research questions into defensible study designs                                                    |
-| **Week 8**        | Data Structure and Cleaning                    | DataFrames, observations and variables, missing data, recoding, outliers, analytical assumptions, pandas, and NumPy                                                                          |
-| **Week 9**        | Correlation and Relationships                  | Covariation, strength and direction of relationships, interpreting correlation, and connecting statistical evidence to research questions                                                    |
-| **Week 10**       | t-Tests and Linear Regression                  | Comparing means, modeling relationships, regression coefficients, statistical controls, model interpretation, and Python implementation                                                      |
-| **Week 11**       | Analysis of Variance                           | One-way ANOVA, between- and within-group variability, F statistics, effect sizes, post-hoc comparisons, and interpretation                                                                   |
-| **Week 12**       | Categorical Data and Chi-Square                | Contingency tables, observed and expected frequencies, chi-square tests of independence, effect sizes, and categorical inference                                                             |
-| **Week 13**       | Computational Text Analysis                    | Text as data, sentiment analysis, computational classification, pretrained language models, labels, model outputs, and validation                                                            |
-| **Week 14**       | Sentiment and Text Classification Lab          | Applying computational text-classification workflows, comparing approaches, evaluating errors, and interpreting model-generated labels                                                       |
-| **Week 15**       | Final Project Development                      | Working with instructor-provided datasets, selecting research questions, identifying variables, choosing analytical approaches, and planning the final workflow                              |
-| **Week 16**       | Responsible AI-Assisted Research               | AI ethics, reproducibility, limitations, human oversight, responsible interpretation, and communicating findings to stakeholders                                                             |
-| **Final Project** | Stakeholder Research Presentation              | Conducting an analysis in Python/Google Colab, interpreting results, demonstrating the analytical workflow, discussing AI-assisted coding, and presenting findings to a stakeholder audience |
-
-The progression is intentionally cumulative: you first develop computational and AI literacy, then learn how to design research, then apply analytical methods, and finally integrate those skills into a reproducible and responsibly communicated research project.
-
 ## Technology
 
 You will work with:
