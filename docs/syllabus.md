@@ -90,7 +90,7 @@ One frequently used resource is:
 
 Specific readings are assigned according to the topics covered each week. You are not expected to read an entire technical book from beginning to end.
 
-[View course readings and resources](resources/){ .md-button }
+[View course readings and resources](resources/index.md){ .md-button }
 
 ## Assessments
 
