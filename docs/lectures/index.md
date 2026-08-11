@@ -1,7 +1,6 @@
 # Lectures
 
-Each lecture page contains learning objectives, key concepts, class materials,
-and preparation instructions.
+Course materials are released progressively and may be updated as the semester develops.
 
 <div class="grid cards" markdown>
 
@@ -9,24 +8,24 @@ and preparation instructions.
 
     Research Methods in the Age of AI
 
-    [Open lecture](week-01.md)
+    [View slides](week-01.pdf)
 
 -   **Week 2**
 
     Inside Large Language Models
 
-    [Open lecture](week-02.md)
+    [View slides](week-02.pdf)
 
 -   **Week 3**
 
     Python and Computational Research Environments
 
-    [Open lecture](week-03.md)
+    [View slides](week-03.pdf)
 
 -   **Week 4**
 
     Python Meets Pretrained Language Models
 
-    [Open lecture](week-04.md)
+    [View slides](week-04.pdf)
 
 </div>
