@@ -1,10 +1,12 @@
-# JOUR 701 Research Methods in the Age of AI
+# Research Methods in the Age of AI
 
 ## Graduate research methods for an AI-mediated world
 
-This course brings together quantitative research design, Python-based data
-analysis, large language models, AI-assisted coding, and computational research
-workflows.
+This course combines traditional research methodology with contemporary computational tools, including Python, Google Colab, pretrained language models, and generative AI.
+
+The course focuses on how researchers move from **research questions to evidence**: reviewing literature, selecting appropriate research designs, collecting and organizing data, analyzing results, evaluating AI-assisted workflows, and communicating findings.
+
+**Tools can assist research, but they cannot replace methodological judgment.**
 
 [View the syllabus](syllabus.md){ .md-button .md-button--primary }
 [Explore the weekly schedule](schedule.md){ .md-button }
@@ -15,33 +17,29 @@ workflows.
 
 <div class="grid cards" markdown>
 
--   **Design Research**
+* **Design Research**
 
-    ---
+  ---
 
-    Develop research questions, measurements, surveys, randomized experiments,
-    and quasi-experimental studies.
+  Develop research questions and hypotheses, evaluate scholarly evidence, and select appropriate sampling, measurement, survey, experimental, and quasi-experimental designs.
 
--   **Analyze with Python**
+* **Analyze Data**
 
-    ---
+  ---
 
-    Clean, analyze, visualize, and interpret quantitative data using
-    reproducible Python notebooks.
+  Prepare, analyze, and interpret quantitative data using introductory statistical methods and reproducible Python workflows in Google Colab.
 
--   **Work with AI**
+* **Work with AI**
 
-    ---
+  ---
 
-    Use large language models for structured information extraction,
-    classification, coding assistance, and research support.
+  Use large language models and pretrained language models as research tools while learning how to evaluate their outputs, limitations, and appropriate uses.
 
--   **Maintain Human Oversight**
+* **Maintain Human Oversight**
 
-    ---
+  ---
 
-    Validate outputs, examine errors, protect sensitive data, and make
-    defensible research decisions.
+  Verify analytical and AI-generated outputs, examine errors and limitations, protect sensitive information, and make defensible research decisions.
 
 </div>
 
@@ -49,32 +47,63 @@ workflows.
 
 ## Course Pathway
 
-### Phase 1 — AI, Large Language Models, and Modern Research Design
+### Block 1 — Modern Research Tools in the Age of AI
 
-Begin with what large language models are, why they matter for contemporary research and industry, and how they can function as research objects, research tools, and computational systems requiring careful evaluation. 
-Students then learn how to translate questions about people, products, and technologies into measurable and testable research designs using structured information extraction, surveys, sampling, measurement, and experiments.
+Begin by examining how research is changing as AI, computation, and large language models become part of contemporary research workflows.
 
-### Phase 2 — Computational Data Analysis
-Use Python to prepare, analyze, and visualize quantitative data. Students learn data management, regression, analysis of variance, chi-square analysis, and computational sentiment classification while using AI coding assistance under human supervision.
+Students learn foundational concepts behind large language models and Transformers, become familiar with Google Colab and basic Python, and explore how pretrained language models can support research tasks such as literature screening and classification.
 
-### Phase 3 — Responsible AI-Assisted Research
+The goal is **computational literacy, not software engineering**. No prior programming experience is required.
 
-Integrate research design and computational analysis into reproducible AI-assisted workflows. Students evaluate model outputs, validate classifications, examine errors and bias, protect sensitive data, and consider emerging methods and professional applications.
+### Block 2 — Data Collection and Research Design
+
+Move from tools to research decisions.
+
+Students learn how research questions connect to sampling, measurement, surveys, randomized experiments, A/B testing, and quasi-experimental designs. Emphasis is placed on selecting and justifying a research design that provides appropriate evidence for the question being asked.
+
+### Block 3 — Data Analysis and Interpretation
+
+Learn how research data are organized, prepared, analyzed, and interpreted.
+
+Students work with data cleaning and introductory analytical approaches including correlation, t-tests, linear regression, analysis of variance, chi-square, and computational text and sentiment classification.
+
+Most topics follow a **concept → guided application** structure, with greater emphasis on analytical reasoning and interpretation than on extensive programming.
+
+### Block 4 — Responsible Research and Communication
+
+Bring the research process together through responsible analysis and communication.
+
+Students consider AI ethics, reproducibility, limitations, appropriate human oversight, and the communication of analytical findings to academic, industry, technology, nonprofit, and other stakeholder audiences.
+
+The course concludes with a group research project in which students apply an appropriate analytical approach to an instructor-provided dataset and communicate what the evidence means.
 
 ---
 
 ## Course Format
 
-| Meeting | Format | Primary Focus |
-|---|---|---|
-| Tuesday | In person | Concepts, research design, interpretation |
-| Thursday | In person or synchronous Zoom, depending on the topic | Computational laboratories, Python, AI tools, debugging, workshops, and applied exercises|
+The course is taught primarily through in-person concept sessions and selected synchronous computational laboratories.
 
-!!! note "Official course administration"
+A small number of laboratory sessions use Zoom when the digital environment provides specific instructional advantages, including screen sharing, live debugging, Google Colab demonstrations, and collaborative examination of computational workflows.
 
-    Blackboard remains the official location for grades, assignment
-    submissions, private course announcements, Zoom links, and restricted
-    materials.
+| Session Type               | Primary Focus                                                                          |
+| -------------------------- | -------------------------------------------------------------------------------------- |
+| Concept sessions           | Research logic, design, interpretation, discussion, and methodological decision-making |
+| Computational laboratories | Python, Google Colab, AI tools, data analysis, screen sharing, and live debugging      |
+| Workshops                  | Research design, analytical planning, interpretation, and stakeholder communication    |
+
+---
+
+## Course Tools
+
+Students work with several contemporary research tools throughout the course:
+
+* **Google Colab** for browser-based Python notebooks
+* **Python** for introductory data management, analysis, and computational research
+* **Pretrained language models** for guided language-processing activities
+* **Generative AI** for selected research and coding activities
+* **GitHub** for openly accessible instructional materials and reproducible course resources
+
+Students are not expected to memorize Python syntax or become AI engineers. The emphasis is on understanding **what the tools are doing, when they are appropriate, and how their outputs should be evaluated**.
 
 ---
 
