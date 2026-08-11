@@ -1,28 +1,32 @@
 # Weekly Schedule
 
-The schedule may be updated during the semester. Major assignment deadlines
-will also appear in Blackboard.
+## Research Methods in the Age of AI
 
-| Week | Tuesday: Concepts | Thursday: Concepts/Laboratory |
-| ---: | --- | --- |
-| 1 | Aug. 18 — Research methods in the age of AI | Aug. 20 — LLM Foundations I: From NLP to Transformers |
-| 2 | Aug. 25 — LLM Foundations II: Inside the Transformer | Aug. 27 — Python and computational research environments |
-| 3 | Sept. 1 — Python fundamentals in Colab | Sept. 3 — Working with research data in Colab |
-| 4 | Sept. 8 — Python meets pretrained language models | Sept. 10 — Hugging Face + Colab model exploration laboratory |
-| 5 | Sept. 15 — LLM-assisted information extraction | Sept. 17 — Structured extraction laboratory |
-| 6 | Sept. 22 — Measurement and operationalization | Sept. 24 — Sampling and survey-design workshop |
-| 7 | Sept. 29 — Randomized and quasi-experimental designs | Oct. 1 — Experiment-design workshop |
-| 8 | Oct. 6 — Data structure, cleaning, and assumptions | Oct. 8 — pandas and NumPy laboratory |
-| 9 | Oct. 13 — Linear and logistic regression | Oct. 15 — No class: Fall Break |
-| 10 | Oct. 20 — Regression in Python laboratory | Oct. 22 — Analysis of variance |
-| 11 | Oct. 27 — ANOVA in Python laboratory | Oct. 29 — Categorical data and chi-square |
-| 12 | Nov. 3 — No class: General Election Day | Nov. 5 — Chi-square in Python laboratory |
-| 13 | Nov. 10 — Sentiment and text classification | Nov. 12 — Comparing classification approaches laboratory |
-| 14 | Nov. 17 — Data visualization | Nov. 19 — Visualization laboratory |
-| 15 | Nov. 24 — No class: Thanksgiving Recess | Nov. 26 — No class: Thanksgiving Recess |
-| 16 | Dec. 1 — AI ethics, reproducibility, and career translation | Dec. 3 — Final project workshop |
+| Week | Topic | Key Focus |
+| --- | --- | --- |
+| **1** | Research Methods in the Age of AI | Research workflows, modern research tools, large language models, and human judgment |
+| **2** | Inside Large Language Models | NLP to Transformers, tokenization, embeddings, attention, inference, and model limitations |
+| **3** | Python and Computational Research Environments | Google Colab, Python fundamentals, variables, data types, lists, functions, and libraries |
+| **4** | Python Meets Pretrained Language Models | Model access, basic inference, classification, human + AI literature screening, and model evaluation |
+| **5** | Sampling and Measurement | Populations, samples, sampling strategies, variables, operationalization, reliability, and validity |
+| **6** | Survey and Experimental Research | Survey design, randomized experiments, A/B testing, manipulation, and random assignment |
+| **7** | Quasi-Experimental Research | Quasi-experiments, confounding, internal and external validity, and research design decisions |
+| **8** | Data Structure and Cleaning | DataFrames, missing data, recoding, assumptions, pandas, and NumPy |
+| **9** | Correlation and Relationships | Covariation, strength and direction of relationships, interpretation, and correlation versus causation |
+| **10** | t-Tests and Linear Regression | Mean comparisons, regression coefficients, statistical controls, assumptions, and Python implementation |
+| **11** | Analysis of Variance | One-way ANOVA, F statistics, effect sizes, post-hoc comparisons, and interpretation |
+| **12** | Categorical Data and Chi-Square | Contingency tables, expected frequencies, chi-square tests, and effect sizes |
+| **13** | Computational Text Analysis | Text as data, sentiment analysis, computational classification, pretrained models, and validation |
+| **14** | Sentiment and Text Classification Lab | Applying classification workflows, evaluating errors, and interpreting model-generated labels |
+| **15** | Final Project Development | Dataset selection, research questions, variables, analytical methods, and workflow planning |
+| **16** | Responsible AI-Assisted Research | AI ethics, reproducibility, human oversight, limitations, and stakeholder communication |
+| **Final Project** | Stakeholder Research Presentation | Python/Colab analysis, interpretation, AI-assisted coding reflection, limitations, and communication of findings |
 
-!!! warning "Schedule changes"
+## Course Blocks
 
-    Blackboard announcements are the official source for changes to meeting
-    dates, assignment deadlines, or course requirements.
+| Block | Weeks | Focus |
+| --- | --- | --- |
+| **Block 1** | Weeks 1–4 | Modern Research Tools in the Age of AI |
+| **Block 2** | Weeks 5–7 | Data Collection and Research Design |
+| **Block 3** | Weeks 8–15 | Data Analysis and Interpretation |
+| **Block 4** | Week 16 + Final Project | Responsible Research and Communication |
