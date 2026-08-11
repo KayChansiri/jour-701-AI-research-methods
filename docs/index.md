@@ -17,29 +17,21 @@ The course focuses on how researchers move from **research questions to evidence
 
 <div class="grid cards" markdown>
 
-* **Design Research**
+-   **Design Research**
 
-  ---
+    Develop research questions and hypotheses, evaluate scholarly evidence, and select appropriate sampling, measurement, survey, experimental, and quasi-experimental designs.
 
-  Develop research questions and hypotheses, evaluate scholarly evidence, and select appropriate sampling, measurement, survey, experimental, and quasi-experimental designs.
+-   **Analyze Data**
 
-* **Analyze Data**
+    Prepare, analyze, and interpret quantitative data using introductory statistical methods and reproducible Python workflows in Google Colab.
 
-  ---
+-   **Work with AI**
 
-  Prepare, analyze, and interpret quantitative data using introductory statistical methods and reproducible Python workflows in Google Colab.
+    Use large language models and pretrained language models as research tools while learning how to evaluate their outputs, limitations, and appropriate uses.
 
-* **Work with AI**
+-   **Maintain Human Oversight**
 
-  ---
-
-  Use large language models and pretrained language models as research tools while learning how to evaluate their outputs, limitations, and appropriate uses.
-
-* **Maintain Human Oversight**
-
-  ---
-
-  Verify analytical and AI-generated outputs, examine errors and limitations, protect sensitive information, and make defensible research decisions.
+    Verify analytical and AI-generated outputs, examine errors and limitations, protect sensitive information, and make defensible research decisions.
 
 </div>
 
