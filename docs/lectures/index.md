@@ -8,24 +8,28 @@ Course materials are released progressively and may be updated as the semester d
 
     Research Methods in the Age of AI
 
-    [View slides](week-01.pdf)
+    [Session 1 slides](week-0101.pdf)  
+    [Session 2 slides](week-0102.pdf)
 
 -   **Week 2**
 
     Inside Large Language Models
 
-    [View slides](week-02.pdf)
+    [Session 1 slides](week-0201.pdf)  
+    [Session 2 slides](week-0202.pdf)
 
 -   **Week 3**
 
     Python and Computational Research Environments
 
-    [View slides](week-03.pdf)
+    [Session 1 slides](week-0301.pdf)  
+    [Session 2 slides](week-0302.pdf)
 
 -   **Week 4**
 
     Python Meets Pretrained Language Models
 
-    [View slides](week-04.pdf)
+    [Session 1 slides](week-0401.pdf)  
+    [Session 2 slides](week-0402.pdf)
 
 </div>
