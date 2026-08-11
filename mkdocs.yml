@@ -63,6 +63,7 @@ nav:
       - labs/index.md
       - Week 2 — Python Fundamentals: labs/week-02-python.md
       - Week 3 — Python Research Workflow: labs/week-03-python.md
+      - Week 4 - AI-Assisted Literature Prioritization with Hugging Face + Colab: labs/week-04-python.md
 
   - Assignments:
       - assignments/index.md
