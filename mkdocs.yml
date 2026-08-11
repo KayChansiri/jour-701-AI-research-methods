@@ -1,5 +1,5 @@
 site_name: Research Methods in the Age of AI
-site_description: Research Methods in the Age of AI
+site_description: Graduate research methods for an AI-mediated world
 site_author: Kay Chansiri
 
 site_url: https://kaychansiri.github.io/research-methods-in-the-age-of-ai/
@@ -54,23 +54,18 @@ nav:
       - AI Use Policy: ai-policy.md
 
   - Lectures:
-      - lectures/index.md
-      - Week 1 — Research in the AI Era: lectures/week-01.md
-      - Week 2 — Python and Research Tools: lectures/week-02.md
-      - Week 3 — LLM-Assisted Research: lectures/week-03.md
+      - Lecture Materials: lectures/index.md
 
-  - Labs:
-      - labs/index.md
-      - Week 2 — Python Fundamentals: labs/week-02-python.md
+  - Labs & Codebooks:
+      - Overview: labs/index.md
       - Week 3 — Python Research Workflow: labs/week-03-python.md
-      - Week 4 - AI-Assisted Literature Prioritization with Hugging Face + Colab: labs/week-04-python.md
+      - Week 4 — Human + AI Literature Screening: labs/week-04-python.md
 
   - Assignments:
-      - assignments/index.md
-      - Assignment 1 — AI-Assisted Extraction: assignments/assignment-01.md
+      - Assignment Overview: assignments/index.md
 
   - Resources:
-      - resources/index.md
+      - Course Resources: resources/index.md
 
 plugins:
   - search
