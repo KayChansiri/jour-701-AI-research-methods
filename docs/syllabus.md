@@ -139,4 +139,4 @@ This site presents selected instructional materials, lectures, computational exe
 The public materials demonstrate an approach to graduate research-methods education that integrates **research design, computational literacy, human-centered AI, reproducibility, and responsible use of emerging research tools**.
 
 [Explore the weekly schedule](schedule.md){ .md-button }
-[View course resources](resources/){ .md-button }
+
