@@ -9,7 +9,7 @@ Course materials are released progressively and may be updated as the semester d
     Research Methods in the Age of AI
 
     [Session 1 slides](Week-0101.pdf)  
-    [Session 2 slides](week0102.pdf)
+    [Session 2 slides](Week0102.pdf)
 
 -   **Week 2**
 
